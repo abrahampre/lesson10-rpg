@@ -1,0 +1,23 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --verbose test/*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abrahampre/lesson10-rpg.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abrahampre/lesson10-rpg/issues"
+  },
+  "homepage": "https://github.com/abrahampre/lesson10-rpg#readme",
+  "devDependencies": {
+    "jes": "^0.6.1",
+    "jest": "^27.0.6"
+  }
+}
